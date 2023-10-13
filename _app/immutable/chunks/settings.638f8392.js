@@ -1,0 +1,1 @@
+const t=""+new URL("../assets/question.67f72bd9.svg",import.meta.url).href,s=globalThis.__sveltekit_p90wn1.env,e={DEVELOPMENT:s.PUBLIC_DEVELOPMENT==="true",PUBLIC_API_BASE_URL:s.PUBLIC_API_BASE_URL||"http://localhost:8081",DOCUMENTATION_URL:"https://docs.ioxio.dev/tags/"};export{t as Q,e as s};
